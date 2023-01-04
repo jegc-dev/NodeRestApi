@@ -1,0 +1,19 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "Build Node.js RESTful APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/jegc-dev/noderestapi"
+  },
+  "keywords": [
+    "Restful",
+    "API"
+  ],
+  "author": "Jorge Granados",
+  "license": "ISC"
+}
